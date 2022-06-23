@@ -1,7 +1,4 @@
 
-% Compressive sensing Theory For ECG signal
-%example the signal is sparse in time domain and random samples
-%are taken in frequency domain.
 clc;
 close all;
 clear all;
