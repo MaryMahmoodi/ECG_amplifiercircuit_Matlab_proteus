@@ -2,6 +2,7 @@
 % in order to upload in Proteus simulator 
 % as an input signal for the ECG amplifier circuit 
 
+
 clc;
 close all;
 clear all;
