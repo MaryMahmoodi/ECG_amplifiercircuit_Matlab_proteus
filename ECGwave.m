@@ -1,6 +1,6 @@
-% save an ECG signal as .wav audio file 
-% to upload in Proteus simulator 
-% as input for the ECG amplifier circuit 
+% save an ECG signal as a .wav audio file 
+% in order to upload in Proteus simulator 
+% as an input signal for the ECG amplifier circuit 
 
 clc;
 close all;
