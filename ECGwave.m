@@ -18,8 +18,10 @@ ECG4=[];
 for i=1:100
     ECG4=[ECG4; ECG3];
 end
+
 % adding random noise
 ECG4=ECG4+0.3*randn(size(ECG4));
+
 % save the ECG signal in .wav format readable by proteus
 wavwrite(0.7*ECG4./max(ECG4),'ECG4.wav');
 
